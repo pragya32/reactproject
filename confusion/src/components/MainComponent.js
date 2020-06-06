@@ -37,8 +37,8 @@ renderDish(dish) {
          </div>
         </Navbar>
         
-        < Menu dishes={this.state.dishes} onClick={(dishId) => this.onDishSelect(dishId)}        /> 
-               //can use any variable instead of dishes
+        < Menu dishes={this.state.dishes} onClick={(dishId) => this.onDishSelect(dishId)}/> 
+               {/* can use any variable instead of dishes */}
       {this.renderDish(this.state.selectedDish)}  
       </div>
     );
