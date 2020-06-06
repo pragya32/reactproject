@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&family=Montserrat:ital,wght@0,300;1,500&display=swap');
+img{
+    height: 300px;
+    width: 80px;
+}
+.heading
+{
+    font-family: 'Lexend Tera', sans-serif;
+font-family: 'Montserrat', sans-serif;
+    color: indigo;
+     
+}
+.header{
+ 
+    font-family: 'Montserrat', sans-serif;
+    color:#FFFC00;
+
+
+}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background:#A77BCA ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}

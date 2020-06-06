@@ -2,12 +2,12 @@ export const DISHES =
     [
         {
         id: 0,
-        name:'Uthappizza',
-        image: 'assets/images/uthappizza.png',
+        name:'DOSA',
+        image: 'assets/images/dosa.jpg',
         category: 'mains',
         label:'Hot',
         price:'4.99',
-        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
+        description:'A healthier food served with sambhar and coconut chutney having the masala potato stuffed ',
         comments: [
             {
             id: 0,
@@ -47,12 +47,12 @@ export const DISHES =
         ]                        },
         {
         id: 1,
-        name:'Zucchipakoda',
-        image: 'assets/images/zucchipakoda.png',
+        name:'Pizza',
+        image: 'assets/images/pizza.jpg',
         category: 'appetizer',
         label:'',
         price:'1.99',
-        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
+        description:'A dish of Italian origin, consisting of a flat round base of dough baked with a topping of tomatoes and cheese, typically with added meat, fish, or vegetables.',
         comments: [
             {
             id: 0,
@@ -93,12 +93,12 @@ export const DISHES =
         },
         {
         id: 2,
-        name:'Vadonut',
-        image: 'assets/images/vadonut.png',
+        name:'CakeOPie',
+        image: 'assets/images/sweets.jpg',
         category: 'appetizer',
         label:'New',
         price:'1.99',
-        description:'A quintessential ConFusion experience, is it a vada or is it a donut?',
+        description:'A Delicious CakeOPie',
         comments: [
             {
             id: 0,
@@ -139,12 +139,12 @@ export const DISHES =
         },
         {
         id: 3,
-        name:'ElaiCheese Cake',
-        image: 'assets/images/elaicheesecake.png',
+        name:'Shushi',
+        image: 'assets/images/shushi.jpg',
         category: 'dessert',
         label:'',
         price:'2.99',
-        description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        description:'Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.',
         comments: [
             {
             id: 0,
